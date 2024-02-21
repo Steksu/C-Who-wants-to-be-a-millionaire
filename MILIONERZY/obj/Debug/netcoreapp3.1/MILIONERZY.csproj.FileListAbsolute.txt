@@ -1,0 +1,68 @@
+S:\2023_2024\Inżynieria i analiza danych\Programowanie obiektowe\Programy studentów\169844\MILIONERZY\bin\Debug\netcoreapp3.1\MILIONERZY.exe
+S:\2023_2024\Inżynieria i analiza danych\Programowanie obiektowe\Programy studentów\169844\MILIONERZY\bin\Debug\netcoreapp3.1\MILIONERZY.deps.json
+S:\2023_2024\Inżynieria i analiza danych\Programowanie obiektowe\Programy studentów\169844\MILIONERZY\bin\Debug\netcoreapp3.1\MILIONERZY.runtimeconfig.json
+S:\2023_2024\Inżynieria i analiza danych\Programowanie obiektowe\Programy studentów\169844\MILIONERZY\bin\Debug\netcoreapp3.1\MILIONERZY.runtimeconfig.dev.json
+S:\2023_2024\Inżynieria i analiza danych\Programowanie obiektowe\Programy studentów\169844\MILIONERZY\bin\Debug\netcoreapp3.1\MILIONERZY.dll
+S:\2023_2024\Inżynieria i analiza danych\Programowanie obiektowe\Programy studentów\169844\MILIONERZY\bin\Debug\netcoreapp3.1\MILIONERZY.pdb
+S:\2023_2024\Inżynieria i analiza danych\Programowanie obiektowe\Programy studentów\169844\MILIONERZY\obj\Debug\netcoreapp3.1\MILIONERZY.csproj.AssemblyReference.cache
+S:\2023_2024\Inżynieria i analiza danych\Programowanie obiektowe\Programy studentów\169844\MILIONERZY\obj\Debug\netcoreapp3.1\MILIONERZY.Form1.resources
+S:\2023_2024\Inżynieria i analiza danych\Programowanie obiektowe\Programy studentów\169844\MILIONERZY\obj\Debug\netcoreapp3.1\MILIONERZY.Properties.Resources.resources
+S:\2023_2024\Inżynieria i analiza danych\Programowanie obiektowe\Programy studentów\169844\MILIONERZY\obj\Debug\netcoreapp3.1\MILIONERZY.csproj.GenerateResource.cache
+S:\2023_2024\Inżynieria i analiza danych\Programowanie obiektowe\Programy studentów\169844\MILIONERZY\obj\Debug\netcoreapp3.1\MILIONERZY.GeneratedMSBuildEditorConfig.editorconfig
+S:\2023_2024\Inżynieria i analiza danych\Programowanie obiektowe\Programy studentów\169844\MILIONERZY\obj\Debug\netcoreapp3.1\MILIONERZY.AssemblyInfoInputs.cache
+S:\2023_2024\Inżynieria i analiza danych\Programowanie obiektowe\Programy studentów\169844\MILIONERZY\obj\Debug\netcoreapp3.1\MILIONERZY.AssemblyInfo.cs
+S:\2023_2024\Inżynieria i analiza danych\Programowanie obiektowe\Programy studentów\169844\MILIONERZY\obj\Debug\netcoreapp3.1\MILIONERZY.csproj.CoreCompileInputs.cache
+S:\2023_2024\Inżynieria i analiza danych\Programowanie obiektowe\Programy studentów\169844\MILIONERZY\obj\Debug\netcoreapp3.1\MILIONERZY.dll
+S:\2023_2024\Inżynieria i analiza danych\Programowanie obiektowe\Programy studentów\169844\MILIONERZY\obj\Debug\netcoreapp3.1\MILIONERZY.pdb
+S:\2023_2024\Inżynieria i analiza danych\Programowanie obiektowe\Programy studentów\169844\MILIONERZY\obj\Debug\netcoreapp3.1\MILIONERZY.genruntimeconfig.cache
+D:\materialystudia\SemestrV\C#\MILIONERZY\MILIONERZY\bin\Debug\netcoreapp3.1\MILIONERZY.exe
+D:\materialystudia\SemestrV\C#\MILIONERZY\MILIONERZY\bin\Debug\netcoreapp3.1\MILIONERZY.deps.json
+D:\materialystudia\SemestrV\C#\MILIONERZY\MILIONERZY\bin\Debug\netcoreapp3.1\MILIONERZY.runtimeconfig.json
+D:\materialystudia\SemestrV\C#\MILIONERZY\MILIONERZY\bin\Debug\netcoreapp3.1\MILIONERZY.runtimeconfig.dev.json
+D:\materialystudia\SemestrV\C#\MILIONERZY\MILIONERZY\bin\Debug\netcoreapp3.1\MILIONERZY.dll
+D:\materialystudia\SemestrV\C#\MILIONERZY\MILIONERZY\bin\Debug\netcoreapp3.1\MILIONERZY.pdb
+D:\materialystudia\SemestrV\C#\MILIONERZY\MILIONERZY\obj\Debug\netcoreapp3.1\MILIONERZY.csproj.AssemblyReference.cache
+D:\materialystudia\SemestrV\C#\MILIONERZY\MILIONERZY\obj\Debug\netcoreapp3.1\MILIONERZY.Form1.resources
+D:\materialystudia\SemestrV\C#\MILIONERZY\MILIONERZY\obj\Debug\netcoreapp3.1\MILIONERZY.Properties.Resources.resources
+D:\materialystudia\SemestrV\C#\MILIONERZY\MILIONERZY\obj\Debug\netcoreapp3.1\MILIONERZY.csproj.GenerateResource.cache
+D:\materialystudia\SemestrV\C#\MILIONERZY\MILIONERZY\obj\Debug\netcoreapp3.1\MILIONERZY.GeneratedMSBuildEditorConfig.editorconfig
+D:\materialystudia\SemestrV\C#\MILIONERZY\MILIONERZY\obj\Debug\netcoreapp3.1\MILIONERZY.AssemblyInfoInputs.cache
+D:\materialystudia\SemestrV\C#\MILIONERZY\MILIONERZY\obj\Debug\netcoreapp3.1\MILIONERZY.AssemblyInfo.cs
+D:\materialystudia\SemestrV\C#\MILIONERZY\MILIONERZY\obj\Debug\netcoreapp3.1\MILIONERZY.csproj.CoreCompileInputs.cache
+D:\materialystudia\SemestrV\C#\MILIONERZY\MILIONERZY\obj\Debug\netcoreapp3.1\MILIONERZY.dll
+D:\materialystudia\SemestrV\C#\MILIONERZY\MILIONERZY\obj\Debug\netcoreapp3.1\MILIONERZY.pdb
+D:\materialystudia\SemestrV\C#\MILIONERZY\MILIONERZY\obj\Debug\netcoreapp3.1\MILIONERZY.genruntimeconfig.cache
+S:\2023_2024\Inżynieria i analiza danych\Programowanie obiektowe\Programy studentów\169844\MILIONERZY\MILIONERZY\bin\Debug\netcoreapp3.1\MILIONERZY.exe
+S:\2023_2024\Inżynieria i analiza danych\Programowanie obiektowe\Programy studentów\169844\MILIONERZY\MILIONERZY\bin\Debug\netcoreapp3.1\MILIONERZY.deps.json
+S:\2023_2024\Inżynieria i analiza danych\Programowanie obiektowe\Programy studentów\169844\MILIONERZY\MILIONERZY\bin\Debug\netcoreapp3.1\MILIONERZY.runtimeconfig.json
+S:\2023_2024\Inżynieria i analiza danych\Programowanie obiektowe\Programy studentów\169844\MILIONERZY\MILIONERZY\bin\Debug\netcoreapp3.1\MILIONERZY.runtimeconfig.dev.json
+S:\2023_2024\Inżynieria i analiza danych\Programowanie obiektowe\Programy studentów\169844\MILIONERZY\MILIONERZY\bin\Debug\netcoreapp3.1\MILIONERZY.dll
+S:\2023_2024\Inżynieria i analiza danych\Programowanie obiektowe\Programy studentów\169844\MILIONERZY\MILIONERZY\bin\Debug\netcoreapp3.1\MILIONERZY.pdb
+S:\2023_2024\Inżynieria i analiza danych\Programowanie obiektowe\Programy studentów\169844\MILIONERZY\MILIONERZY\obj\Debug\netcoreapp3.1\MILIONERZY.csproj.AssemblyReference.cache
+S:\2023_2024\Inżynieria i analiza danych\Programowanie obiektowe\Programy studentów\169844\MILIONERZY\MILIONERZY\obj\Debug\netcoreapp3.1\MILIONERZY.Form1.resources
+S:\2023_2024\Inżynieria i analiza danych\Programowanie obiektowe\Programy studentów\169844\MILIONERZY\MILIONERZY\obj\Debug\netcoreapp3.1\MILIONERZY.Properties.Resources.resources
+S:\2023_2024\Inżynieria i analiza danych\Programowanie obiektowe\Programy studentów\169844\MILIONERZY\MILIONERZY\obj\Debug\netcoreapp3.1\MILIONERZY.csproj.GenerateResource.cache
+S:\2023_2024\Inżynieria i analiza danych\Programowanie obiektowe\Programy studentów\169844\MILIONERZY\MILIONERZY\obj\Debug\netcoreapp3.1\MILIONERZY.GeneratedMSBuildEditorConfig.editorconfig
+S:\2023_2024\Inżynieria i analiza danych\Programowanie obiektowe\Programy studentów\169844\MILIONERZY\MILIONERZY\obj\Debug\netcoreapp3.1\MILIONERZY.AssemblyInfoInputs.cache
+S:\2023_2024\Inżynieria i analiza danych\Programowanie obiektowe\Programy studentów\169844\MILIONERZY\MILIONERZY\obj\Debug\netcoreapp3.1\MILIONERZY.AssemblyInfo.cs
+S:\2023_2024\Inżynieria i analiza danych\Programowanie obiektowe\Programy studentów\169844\MILIONERZY\MILIONERZY\obj\Debug\netcoreapp3.1\MILIONERZY.csproj.CoreCompileInputs.cache
+S:\2023_2024\Inżynieria i analiza danych\Programowanie obiektowe\Programy studentów\169844\MILIONERZY\MILIONERZY\obj\Debug\netcoreapp3.1\MILIONERZY.dll
+S:\2023_2024\Inżynieria i analiza danych\Programowanie obiektowe\Programy studentów\169844\MILIONERZY\MILIONERZY\obj\Debug\netcoreapp3.1\MILIONERZY.pdb
+S:\2023_2024\Inżynieria i analiza danych\Programowanie obiektowe\Programy studentów\169844\MILIONERZY\MILIONERZY\obj\Debug\netcoreapp3.1\MILIONERZY.genruntimeconfig.cache
+D:\materialystudia\SemestrV\C#\MILIONERZY 1\MILIONERZY\MILIONERZY\bin\Debug\netcoreapp3.1\MILIONERZY.exe
+D:\materialystudia\SemestrV\C#\MILIONERZY 1\MILIONERZY\MILIONERZY\bin\Debug\netcoreapp3.1\MILIONERZY.deps.json
+D:\materialystudia\SemestrV\C#\MILIONERZY 1\MILIONERZY\MILIONERZY\bin\Debug\netcoreapp3.1\MILIONERZY.runtimeconfig.json
+D:\materialystudia\SemestrV\C#\MILIONERZY 1\MILIONERZY\MILIONERZY\bin\Debug\netcoreapp3.1\MILIONERZY.runtimeconfig.dev.json
+D:\materialystudia\SemestrV\C#\MILIONERZY 1\MILIONERZY\MILIONERZY\bin\Debug\netcoreapp3.1\MILIONERZY.dll
+D:\materialystudia\SemestrV\C#\MILIONERZY 1\MILIONERZY\MILIONERZY\bin\Debug\netcoreapp3.1\MILIONERZY.pdb
+D:\materialystudia\SemestrV\C#\MILIONERZY 1\MILIONERZY\MILIONERZY\obj\Debug\netcoreapp3.1\MILIONERZY.csproj.AssemblyReference.cache
+D:\materialystudia\SemestrV\C#\MILIONERZY 1\MILIONERZY\MILIONERZY\obj\Debug\netcoreapp3.1\MILIONERZY.Form1.resources
+D:\materialystudia\SemestrV\C#\MILIONERZY 1\MILIONERZY\MILIONERZY\obj\Debug\netcoreapp3.1\MILIONERZY.Properties.Resources.resources
+D:\materialystudia\SemestrV\C#\MILIONERZY 1\MILIONERZY\MILIONERZY\obj\Debug\netcoreapp3.1\MILIONERZY.csproj.GenerateResource.cache
+D:\materialystudia\SemestrV\C#\MILIONERZY 1\MILIONERZY\MILIONERZY\obj\Debug\netcoreapp3.1\MILIONERZY.GeneratedMSBuildEditorConfig.editorconfig
+D:\materialystudia\SemestrV\C#\MILIONERZY 1\MILIONERZY\MILIONERZY\obj\Debug\netcoreapp3.1\MILIONERZY.AssemblyInfoInputs.cache
+D:\materialystudia\SemestrV\C#\MILIONERZY 1\MILIONERZY\MILIONERZY\obj\Debug\netcoreapp3.1\MILIONERZY.AssemblyInfo.cs
+D:\materialystudia\SemestrV\C#\MILIONERZY 1\MILIONERZY\MILIONERZY\obj\Debug\netcoreapp3.1\MILIONERZY.csproj.CoreCompileInputs.cache
+D:\materialystudia\SemestrV\C#\MILIONERZY 1\MILIONERZY\MILIONERZY\obj\Debug\netcoreapp3.1\MILIONERZY.dll
+D:\materialystudia\SemestrV\C#\MILIONERZY 1\MILIONERZY\MILIONERZY\obj\Debug\netcoreapp3.1\MILIONERZY.pdb
+D:\materialystudia\SemestrV\C#\MILIONERZY 1\MILIONERZY\MILIONERZY\obj\Debug\netcoreapp3.1\MILIONERZY.genruntimeconfig.cache
